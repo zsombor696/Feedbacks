@@ -1,0 +1,28 @@
+
+
+{
+
+  "feedbacks": [
+    {
+      "id": 1,
+      "description": "Meghalt",
+      "indicator": "Péter János",
+      "date": "2023.04.7",
+      "evaluation": 10
+    },
+    {
+      "id": 2,
+      "description": "Túlélte",
+      "indicator": "Feri Hegy",
+      "date": "2023.12.13",
+      "evaluation": 1
+    },
+    {
+      "id": 3,
+      "description": "Nem is rossz",
+      "indicator": "Fábián István",
+      "date": "2024.01.08",
+      "evaluation": 5
+    }
+  ]
+}
